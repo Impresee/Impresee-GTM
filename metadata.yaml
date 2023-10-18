@@ -1,3 +1,5 @@
 homepage: "https://impresee.com"
 documentation: "https://github.com/Impresee/Impresee-GTM/wiki/Documentation"
 versions:
+  - sha: fac97d991019171cdc4f28376bbc391c0324a278
+    changeNotes: Initial release
